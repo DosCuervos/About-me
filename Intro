@@ -1,0 +1,1 @@
+Aspiring cybersecurity enthusiast looking to break into the industry. In great oversight though I hadn't thought to really use a github until recently so this will be expanding as I add old code, solves, and labs as well as completing new projects to keep expanding.
